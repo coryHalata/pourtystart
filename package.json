@@ -1,0 +1,27 @@
+{
+  "name": "pourtystart",
+  "version": "1.0.0",
+  "description": "A simple script that uses the pourty library to generate random poetry.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coryHalata/pourtystart"
+  },
+  "keywords": [
+    "poetry",
+    "random",
+    "generator"
+  ],
+  "author": "coryHalata",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coryHalata/pourtystart/issues"
+  },
+  "homepage": "https://github.com/coryHalata/pourtystart",
+  "dependencies": {
+    "pourty": "https://github.com/coryHalata/pourty"
+  }
+}
